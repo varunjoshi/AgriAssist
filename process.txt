@@ -1,0 +1,3 @@
+Branching model: main, develop, feature/*
+Steps: create develop, create features, write files, merge PRs, resolve conflict, tag release
+Conflict resolved: kept all names in CONTRIBUTORS.txt
