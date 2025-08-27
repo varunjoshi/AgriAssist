@@ -1,0 +1,6 @@
+AgriAssist – Direct Farmer-Vendor Linkage
+Problem: Middlemen reduce farmer income
+Solution: Direct connections via app
+Users: Farmers, Vendors
+Features: list produce, browse vendors, basic orders
+Outcome: Better income and transparency
