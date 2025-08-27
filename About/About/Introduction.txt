@@ -1,0 +1,17 @@
+AgriAssist – ADP Assignment 4
+
+Introduction:
+This project demonstrates collaborative teamwork using Git branching and merging.
+The focus is on process discipline, conflict resolution, and tagging a final release.
+
+Team Members:
+- Varun Joshi – Release Notes
+- Sarthak Abhale – Team & Conflict Resolution
+- Bhairavi Bhambare – Overview
+- Yash Badade – Contributors
+- Madura Lute – Process
+
+Outcome:
+- All feature branches merged into develop
+- One deliberate merge conflict on CONTRIBUTORS.txt, resolved by Integrator
+- Final merge into main with tag v1.0.0
